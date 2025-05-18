@@ -6,7 +6,9 @@ layout: default
 
 ## Hi there! :wave:
 
-Welcome to my blog! Here I share my thoughts and ideas. I will be posting about my research, my projects, and my experiences.
+Welcome to my blog!
+I’m a Brand Associate managing digital advertising operations.
+I have a keen interest in learning and exploring all aspects of media agencies, with a focus on understanding the core of platforms like Google Ads, Meta Ads, DV360, and more.
 
 ## Posts
 
