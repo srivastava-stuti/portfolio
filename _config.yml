@@ -30,12 +30,12 @@ ignore_theme_config: true # this means to ignore theme's config _config.yml
 
 # Author Settings
 author: Stuti Srivastava # add your name
-author-img: stuti.png # add your photo
+author-img: me.jpg # add your photo
 about-author: >-
-  I am currently working as Brand Associate at MyGate
+  I am currently working as Brand Associate at MyGate.
+social-linkedin: stutishri
 #social-twitter: 
 #social-github: 
-#social-linkedin: stuti-srivastava
 #social-instagram: 
 
 # Google Analytics
